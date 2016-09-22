@@ -2,6 +2,7 @@
 
 Single module example of TicTacToe written in Haxe using [hexMachina](http://hexmachina.org) framework.
 In this example I wanted to showcase that the framework is also a perfect choice when you want something really-really simple. You can use without DSL, multiple modules, etc. Just simple MVC implementation.
+
 Check out the Multi-Modular version here: https://github.com/grosmar/hexMachina-TicTacToe-MultiModule
 
 #Demo
